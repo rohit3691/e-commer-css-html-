@@ -1,0 +1,4 @@
+<a href="/ref=nav_logo" id="nav-logo-sprites"aria-label="e-commerce">
+      <span class="nav-sprite nav-logo-base"></span>
+      <span id="logo-ext" class="nav-sprite nav-logo-ext nav-progressive-content"></span>
+    </a>
